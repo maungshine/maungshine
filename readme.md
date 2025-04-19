@@ -28,9 +28,9 @@ I'm a full-stack web developer with a strong foundation in React, Next.js, and V
 
 ---
 
-## 📈 GitHub Stats
+🚀 GitHub Stats & Activity
 
-![Maung Shine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maungshine&show_icons=true&theme=radical)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maungshine&show_icons=true&theme=tokyonight" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=maungshine&theme=tokyonight&hide_border=true" height="180"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=maungshine&theme=react-dark&hide_border=true" alt="activity graph"/> </p>
 
 ---
 
