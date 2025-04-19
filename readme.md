@@ -1,6 +1,7 @@
-# Hi there, I'm Maung Shine 👋
-
-🎯 Passionate Web Developer | 🇲🇲 From Myanmar
+<h1 align="center">Hey there, I'm Maung Shine 👨‍💻🚀</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=435&lines=Full-stack+Web+Developer;React+%7C+Next.js+%7C+Vue;Let's+build+cool+things+together!" alt="Typing SVG" />
+</p>
 
 I'm a full-stack web developer with a strong foundation in React, Next.js, and Vue and more\*\*. I love building intuitive, user-friendly web applications and continuously learning new technologies.
 
@@ -40,5 +41,7 @@ I'm a full-stack web developer with a strong foundation in React, Next.js, and V
 - [![Email](https://img.shields.io/badge/email-shinekoko1276@gmail.com-blue?logo=gmail)](mailto:shinekoko1276@gmail.com)
 
 ---
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=maungshine.maungshine)
 
 _Thanks for stopping by! Feel free to explore my repositories and reach out for collaboration, projects, or just to say hi!_
